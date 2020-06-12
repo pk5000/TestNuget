@@ -11,7 +11,8 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageIcon>visualantidoteicon.png</PackageIcon>
     <PackageTags>mvc kentico calculator</PackageTags>
-    <Version>1.0.2</Version>
+    <Version>1.0.3</Version>
+    <AssemblyName>VisualAntidote.TestNuget</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>
